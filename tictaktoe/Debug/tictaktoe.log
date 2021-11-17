@@ -1,0 +1,4 @@
+﻿  tictaktoe.cpp
+D:\учеба\Шарага\С++\tictaktoe\tictaktoe\tictaktoe.cpp(157,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\учеба\Шарага\С++\tictaktoe\tictaktoe\tictaktoe.cpp(73): warning C4715: botMove: значение возвращается не при всех путях выполнения
+  tictaktoe.vcxproj -> D:\учеба\Шарага\С++\tictaktoe\Debug\tictaktoe.exe
